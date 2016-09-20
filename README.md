@@ -1,2 +1,2 @@
 # hello-world
-for firstuse
+for first use

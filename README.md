@@ -1,2 +1,2 @@
-# hello/sworld
+# hello/s world
 for first use
